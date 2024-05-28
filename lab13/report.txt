@@ -1,0 +1,7 @@
+Generated Time Series Report
+N: 5000
+Sg: 0.9
+Fi1: 0.6
+Fi2: 0.2
+Tt1: 0.4
+Tt2: 0.3
